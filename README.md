@@ -15,4 +15,4 @@ Build using maven
     cd kundera-cassandra-example
     mvn clean install
     
-  Run as Java Application `KunderaOneToManyTest`  
+  Run as Java Application [`KunderaOneToManyTest`](https://github.com/devender-yadav/kundera-cassandra-example/blob/master/src/test/java/com/impetus/kundera/KunderaOneToManyTest.java) 
