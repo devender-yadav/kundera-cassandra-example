@@ -1,0 +1,1 @@
+# kundera-cassandra-example
